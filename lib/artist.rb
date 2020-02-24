@@ -6,4 +6,5 @@ attr_accessor :name, :genre
     @name = name
     @genre = genre
   end
+
 end
